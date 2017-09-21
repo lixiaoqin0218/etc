@@ -11,4 +11,3 @@ var a = [
 
 var a3 = a.map( s => s.length );
 
-var test = 1;
